@@ -1,16 +1,35 @@
-## Hi there 👋
+👋 Hi, I'm Smita Deshmukh
 
-<!--
-**Smita1011/Smita1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
 
-Here are some ideas to get you started:
+🎓 Master of Computer Application (MCA) graduate with a passion for software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Experienced in Java, Spring Boot, JavaScript, SQL, and RESTful APIs.
+
+🔧 Skilled in backend development, database management, and scalable application design.
+
+🚀 Currently expanding my expertise at Tech Elevator’s Java Development Bootcamp.
+
+🤝 Open to collaborations, learning opportunities, and new challenges.
+
+🛠️ Tech Stack
+
+Languages: Java, JavaScript, SQL, HTML, CSS
+
+Frameworks & Libraries: Spring Boot, Vue.js
+
+Databases: PostgreSQL, MySQL
+
+Tools & Platforms: Git, GitHub, IntelliJ IDEA, Postman
+
+📌  Projects
+
+🚀 Vending Machine ApplicationA console-based vending machine using Java and OOP principles.✔ Backend logic for inventory & transactions✔ File I/O & exception handling
+
+💰 TEbucks ApplicationA peer-to-peer payment system built with Spring Boot.✔ RESTful API & PostgreSQL database integration✔ Authentication & authorization for secure transactions
+
+📫 Connect with Me
+www.linkedin.com/in/smitadeshmukhdelware
+
+📊 GitHub Stats
+https://github.com/Smita1011
