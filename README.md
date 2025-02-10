@@ -22,12 +22,6 @@ Databases: PostgreSQL, MySQL
 
 Tools & Platforms: Git, GitHub, IntelliJ IDEA, Postman
 
-📌  Projects
-
-🚀 Vending Machine ApplicationA console-based vending machine using Java and OOP principles.✔ Backend logic for inventory & transactions✔ File I/O & exception handling
-
-💰 TEbucks ApplicationA peer-to-peer payment system built with Spring Boot.✔ RESTful API & PostgreSQL database integration✔ Authentication & authorization for secure transactions
-
 📫 Connect with Me
 www.linkedin.com/in/smitadeshmukhdelware
 
