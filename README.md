@@ -1,4 +1,4 @@
-![Pratiksha Deshmukh (4)](https://github.com/user-attachments/assets/9aec0941-cdd0-4e54-841d-7ca4b7e27234)
+![Smita Deshmukh (4)](https://github.com/user-attachments/assets/9aec0941-cdd0-4e54-841d-7ca4b7e27234)
 
 <h1 align="center">Hi 👋, I'm Smita Deshmukh</h1>
 <h3 align="center">A Passionate Software Developer</h3>
