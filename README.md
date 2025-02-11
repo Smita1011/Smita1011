@@ -1,7 +1,8 @@
 👋 Hi, I'm Smita Deshmukh
 
 🚀 About Me
-
+    🔍 Actively seeking Java Full Stack Developer opportunities where I can apply my skills and contribute to innovative projects. Excited to leverage my bootcamp experience and 
+ industry knowledge to build scalable, high-performance applications.
 🎓 Master of Computer Application (MCA) graduate with a passion for software development.
 
 💻 Experienced in Java, Spring Boot, JavaScript, SQL, and RESTful APIs.
