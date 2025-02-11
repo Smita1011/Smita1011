@@ -22,6 +22,14 @@ Databases: PostgreSQL, MySQL
 
 Tools & Platforms: Git, GitHub, IntelliJ IDEA, Postman
 
+🎓 Education
+
+Tech Elevator | Full-Stack Java Developer Bootcamp
+
+Pune University | Master of Computer Application
+
+Tilak Vidyapeeth | Bachelor of Computer Application
+
 📫 Connect with Me
 www.linkedin.com/in/smitadeshmukhdelware
 
