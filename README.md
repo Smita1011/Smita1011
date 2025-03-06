@@ -44,15 +44,11 @@ Share
 
 ## 📌 Projects
 
-### 🚀 Vending Machine Application  
-A **console-based vending machine** using Java and OOP principles.  
-✔ **Backend logic** for inventory & transactions  
-✔ **File I/O & exception handling**  
-
-### 💰 TEbucks Application  
-A **peer-to-peer payment system** built with Spring Boot.  
-✔ **RESTful API** & PostgreSQL database integration  
-✔ **Authentication & authorization** for secure transactions  
+### 📚 E-Learning Portal
+An online learning platform designed to provide seamless course access and management.
+✔ Built with Vue.js (front end) & Spring Boot (backend)
+✔ RESTful APIs for smooth communication with a PostgreSQL database
+✔ Enables user authentication, course enrollment, and content management
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smitadeshmukhdelware)  
