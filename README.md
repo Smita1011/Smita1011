@@ -45,7 +45,7 @@ Share
 ## 📌 Projects
 
 ### 📚 E-Learning Portal
-An online learning platform designed to provide seamless course access and management.
+<p>An online learning platform designed to provide seamless course access and management.</strong></p>
 ✔ Built with Vue.js (front end) & Spring Boot (backend)
 ✔ RESTful APIs for smooth communication with a PostgreSQL database
 ✔ Enables user authentication, course enrollment, and content management
