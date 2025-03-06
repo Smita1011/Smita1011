@@ -46,9 +46,9 @@ Share
 
 ### 📚 E-Learning Portal
 <p>An online learning platform designed to provide seamless course access and management.</strong></p>
-✔ Built with Vue.js (front end) & Spring Boot (backend)
-✔ RESTful APIs for smooth communication with a PostgreSQL database
-✔ Enables user authentication, course enrollment, and content management
+<p>✔ Built with Vue.js (front end) & Spring Boot (backend)</p>
+<p>✔ RESTful APIs for smooth communication with a PostgreSQL database</p>
+<p>✔ Enables user authentication, course enrollment, and content management</p>
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smitadeshmukhdelware)  
